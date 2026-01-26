@@ -21,5 +21,5 @@ SecureChat is a simple, browser-based messaging app designed for users who value
 4. You will get an another QR code and a encoded string, share either of them with your host.
 5. Once the host enters it, a live end to end encrypted connection will be established.
 ___
-## The Web-App is live at [SecureChat](https://sercurechatbyharshit.netlify.app/)
+## The Web-App is live at [SecureChat](https://harshit-code07.github.io/SECURE-CHAT/)
 
